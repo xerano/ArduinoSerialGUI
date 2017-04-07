@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{E44EBE9A-0336-4819-B0FA-22A110A91EE0}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SerialTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
